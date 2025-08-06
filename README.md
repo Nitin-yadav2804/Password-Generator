@@ -14,11 +14,14 @@ A simple and customizable password generator built with JavaScript.
     ```bash
     git clone https://github.com/your-username/Password-Generator.git
     ```
-2. Start Command
-```bash
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+3. Start the application:
+    ```bash
     npm run dev
-   ```
-
+    ```
 
 ## Usage
 
